@@ -4,3 +4,4 @@ export const sum = (a: number, b: number) => {
   }
   return a + b;
 };
+export { transform as default } from './transform';
